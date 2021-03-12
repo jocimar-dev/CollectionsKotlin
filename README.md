@@ -1,4 +1,4 @@
-#Projeto para treinamento de Collections: Set e Map em Kotlin
+#Projeto para treinamento de Collections: Set e Map em Kotlin#
 
 **Desenvolvido em cumprimento do treinamento da ZupAcademy**
 
